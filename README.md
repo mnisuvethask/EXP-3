@@ -39,7 +39,11 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+CIRCUIT DIAGRAM: 
+![WhatsApp Image 2025-12-04 at 22 53 24_ad74bfe8](https://github.com/user-attachments/assets/53ce93fa-d9b8-4463-8c82-6129d7805540)
+
+
 Tabulation:1
 | NODE | S1      | S2      | LAMP    |
 |------|---------|---------|---------|          
@@ -47,7 +51,9 @@ Tabulation:1
 | 2    | ON      | OFF     | OFF     |
 | 3    | OFF     | ON      | OFF     |
 | 4    | OFF     | OFF     | ON      |
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-12-04 at 22 53 24_031d7e1e](https://github.com/user-attachments/assets/93d8f673-6b44-473b-b406-908eed8f5235)
 
 Tabulation:2
 | NODE | S1      | S2      | LAMP    |
