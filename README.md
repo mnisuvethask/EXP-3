@@ -52,11 +52,11 @@ Tabulation:1
 | 3    | OFF     | ON      | OFF     |
 | 4    | OFF     | OFF     | ON      |
 Cross connection: 
-|components|protiens|specification
- |----:|----:|----:|
- |Ac supply|Vsine|Amplitude=230v|
- |two way switch|spdt|frequency=50Hz|
- |lamp|animated|230v|
+|components|protiens|specification|
+|----:|----:|----:|
+|Ac supply|Vsine|Amplitude=230v|
+|two way switch|spdt|frequency=50Hz|
+|lamp|animated|230v|
 CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-04 at 22 53 24_031d7e1e](https://github.com/user-attachments/assets/93d8f673-6b44-473b-b406-908eed8f5235)
 
